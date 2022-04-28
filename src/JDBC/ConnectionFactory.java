@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
  * @author BRUNO
  */
 public class ConnectionFactory {
-                                
+                                // jdbc:mysql://localhost/marvin_seguros?serverTimezone=UTC","root","3635
 private static final String URL = "jdbc:mysql://localhost:3306/podologiacadastro?serverTimezone=UTC";
 private static final String USER = "root";
 private static final String PASS = "";
